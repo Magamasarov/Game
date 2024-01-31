@@ -1,0 +1,11 @@
+.card {
+    width: 100px;
+    height: 150px;
+    background-color: #f0cca4;
+    margin: 10px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    line-height: 150px;
+    font-size: 20px;
+}
